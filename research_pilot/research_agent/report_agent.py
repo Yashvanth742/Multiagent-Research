@@ -37,5 +37,20 @@ Never invent facts, findings, dates, images, or URLs.
 
 Use the collected evidence only. Do not perform searches yourself.
 Return the completed report, not a status message.
+
+### Clickable Links and Images
+
+- Always format source URLs as Markdown hyperlinks:
+  [Source Page](https://example.com/article)
+
+- For image references, use:
+  [View Original Image](https://example.com/image.jpg)
+
+- Never put URLs inside inline code or fenced code blocks.
+- Do not output raw URLs when a Markdown hyperlink can be used.
+- When an image URL is valid and accessible, render it using:
+  ![Image description](https://example.com/image.jpg)
+
+- Keep the original source page link alongside each image.
 """,
 )
