@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\research_pilot\\.venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}\\research_pilot\\.venv\\Lib\\site-packages"
+    ],
+    "terminal.integrated.env.windows": {
+        "PATH": "${workspaceFolder}\\research_pilot\\.venv\\Scripts;${env:PATH}"
+    }
+}
