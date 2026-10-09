@@ -539,6 +539,8 @@ ResearchPilot relies on external API credentials. Follow these practices:
 
 ---
 
+![Architecture](https://github.com/Yashvanth742/Multiagent-Research/blob/main/ResearchPilot%20AI%20Assistant%20Architecture.png?raw=true)
+
 ## 🤝 Contributing
 
 Contributions and suggestions are welcome.
